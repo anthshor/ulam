@@ -7,7 +7,7 @@ ulam = [1,2]
 test = Hash.new(0)
 counter = 0
 puts "Enter n for the number of Ulam numbers:"
-n = gets.chomp.to_i
+n = gets.chomp.to_i - 1
 
 y = 2
 for i in 1..n
