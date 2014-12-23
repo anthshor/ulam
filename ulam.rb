@@ -1,6 +1,6 @@
 #!/usr/bin/env ruby
 #
-# Returns the first 25 ulam numbers. 
+# Returns the first n ulam numbers. 
 #
 
 ulam = [1,2]
